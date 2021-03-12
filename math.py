@@ -1,8 +1,8 @@
 def diff(x,y):
-	return x-y
+	pass
 
 def mul(x,y):
-	return x*y
+	pass
 
 def div(x,y):
 	pass
