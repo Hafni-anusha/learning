@@ -11,3 +11,5 @@ def add(x,y):
 
 def answer():
 	pass 
+def mod():
+	pass
